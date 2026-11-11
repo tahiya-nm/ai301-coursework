@@ -1,3 +1,5 @@
+-- This is a work in progress --
+
 # Contribution: [Issue Title]
 
 Path: `beat-2-contribution/contribution-story.md`
